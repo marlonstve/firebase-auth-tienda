@@ -1,0 +1,39 @@
+
+.carousel:hover {
+    background-color: orange;
+    border-radius: 40%;
+    position: absolute;
+
+}
+
+.carousel img {
+    background-color: #ffff;
+    border-radius: 50%;
+    align-content: center;
+}
+
+.carousel h5 {
+    font-family: serif;
+    align-content: center;
+
+
+}
+.container{
+    margin-top: 50px;
+    max-width: 50px;
+    margin-right: 50px;
+ 
+}
+.container h4{
+    margin-right: 20px;
+}
+.btn-1{
+background-color:#f3581a ;
+ border-radius: 20px;
+  margin-left: 580px;
+margin-right: 20px;
+ font-size: 16px;
+}
+.rec.rec-arrow:Disabled {
+   margin-top: 50px;
+}
